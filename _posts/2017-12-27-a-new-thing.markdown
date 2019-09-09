@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "A new thing"
 date:   2017-12-27 19:42:53 +0000
 categories: site news
