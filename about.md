@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Studio::DC Creative is a creative collaboration specializing in social design and cultural architecture. Our core skills blend performance, visual, and graphic arts with high-tech expertise such as Arduino microchip systems, complex internet application development, and creative data analysis.   
+Studio::DC Creative is a side project which has, in the past, focused on such diverse topics as open-ocean sailing, fine-arts photography and music video production.
+
+Currently, Studio::DC is working on boutique software for interfacing to vintage synthesizers.

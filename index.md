@@ -4,3 +4,15 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+# Welcome
+
+Here are a few of the projects Studio::DC is currently working on.
+
+# Current projects:
+
+## H9 Remote
+### A Max for Live device for automating and storing configurations for the Eventide H9 effects pedal
+
+Site: [https://github.com/malacalypse/h9-remote](https://github.com/malacalypse/h9-remote)
+
